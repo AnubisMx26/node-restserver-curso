@@ -1,0 +1,25 @@
+instalar MongoDB
+https://www.mongodb.com/dr/fastdl.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-4.0.9-signed.msi/download
+
+Install Robo 3t
+https://robomongo.org/download
+
+npm install bcrypt@3.2.0
+
+
+
+
+
+Polizas
+Cotizaciones
+Solicitud
+
+user: root
+pass: rII6rjLsNekgItIv
+
+
+Cadena de conexión Compas: mongodb+srv://root:rII6rjLsNekgItIv@cluster0-zaniv.mongodb.net/cafe
+
+
+
+Clase: 107
